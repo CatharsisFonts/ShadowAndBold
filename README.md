@@ -1,6 +1,6 @@
 # Shadow & Bold: Fan-made fonts for the world of Shadow & Bone
 
-Shadow & Bold is an open-source collection of fonts developed by Christian Thalmann ([Catharsis Fonts][1]) for the writing systems of [Netflix' "Shadow & Bone" adaptation][2] of [Leigh Bardugo's Grishaverse books][3]. The source files are in [Glyphs][4] format, and TrueType files are provided for installation.
+Shadow & Bold is an open-source collection of fonts developed by Christian Thalmann ([Catharsis Fonts][1]) for the writing systems created by [David J. Peterson][11] for [Netflix' "Shadow & Bone" adaptation][2] of [Leigh Bardugo's Grishaverse books][3]. The source files are in [Glyphs][4] format, and TrueType files are provided for installation.
 
 Any feedback, bug reports, test results, and suggestions for additions are very welcome. You can contact me using the [Shadow & Bold issue tracker][5]. 
 
@@ -39,3 +39,5 @@ These typefaces are provided to the Shadow & Bone community as fan art and are n
 [8]: https://github.com/CatharsisFonts/ShadowAndBold/releases/latest
 [9]: https://scripts.sil.org/OFL
 [10]: https://twitter.com/dedalvs/status/1386729032654286850?lang=en
+[11]: http://dedalvs.com
+
