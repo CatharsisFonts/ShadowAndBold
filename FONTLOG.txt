@@ -1,0 +1,44 @@
+FONTLOG for the Shadow & Bold fonts
+
+This file provides detailed information on the Shadow & Bold Font Software. This information should be distributed along with the Shadow & Bold fonts and any derivative works.
+
+Basic Font Information
+
+Ravkan Book is a typeface for the Ravkan writing system that David J. Peterson developed for the Netflix series Shadow & Bone. Where David's original design is deliberately harsh and coarse to fit with the resource-strapped military setting of Shadow & Bone's first season, Ravkan Book is designed to look refined, balanced, and comfortably readable, as might befit the typography of Ravka's royal capital. Compared to the military font, it also introduces ball terminals to further evoke the "Fantasy Cyrillic" flavor that the show's worldbuilding called for. Ravkan Book requires the Standard Ligatures feature (LIGA) to be activated to work properly
+
+Ravkan Book Latin is a Latin display typeface made in the visual style of Ravkan Book.
+
+Ravkan Grotesk is a Ravkan typeface designed to evoke the early sans serifs of our world, as it might be used on storefronts and posters. Like Ravkan Book, it requires the Standard Ligatures feature to be active to work properly.
+
+
+The Shadow & Bold fonts are essentially fan art, and thus provided for free to the public. Its creators do not earn any money from its distribution.
+  
+Documentation can be found at the "Shadow & Bold" GitHub page:
+https://github.com/CatharsisFonts/ShadowAndBold
+
+To contribute to the project, contact Christian Thalmann (see below).
+
+
+
+ChangeLog
+
+2021-12-18:
+First upload.
+(Christian Thalmann)
+
+
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Christian Thalmann (Catharsis Fonts)
+E: christian.d.thalmann@gmail.com
+W: http://www.myfonts.com/foundry/Catharsis_Fonts/
+D: Designer of the Ravkan Book fonts
+
+N: David J. Peterson
+E: djpquery@gmail.com
+W: https://dedalvs.com/
+D: Creator of the Ravkan writing system
